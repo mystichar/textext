@@ -78,3 +78,4 @@ plugin InkLaTeX written by Toru Araki.
 .. |status-downloads| image:: https://img.shields.io/github/downloads/textext/textext/total   
     :alt: GitHub all releases    
 
+
